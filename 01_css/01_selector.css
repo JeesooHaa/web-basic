@@ -1,0 +1,38 @@
+/* 전체 선택자 */
+* {
+  color: darkorange;
+}
+
+/* 태그 선택자 */
+h1 {
+  color: hotpink;
+}
+
+/* 클래스 선택자 */
+.pink {
+  color: goldenrod;
+}
+
+/* css 에서 더 밑에 있는 yellow 가 적용됨 */
+.yellow {
+  color: firebrick;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/* 아이디 선택자 */
+#green {
+  color: aqua;
+}
+
+/* 아이디 > 클래스 */
+#purple {
+  color: blueviolet;
+}
+
+#orange {
+  color: rgb(77, 170, 116) !important;
+  color: darksalmon;
+}
