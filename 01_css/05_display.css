@@ -1,0 +1,19 @@
+li {
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+}
+
+input {
+  display: block;
+  margin: 20px;
+}
+
+#bye {
+  display: none;
+}
+
+/* 공간이 남아있음 */
+#hollow {
+  visibility: hidden;
+}
